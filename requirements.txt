@@ -1,0 +1,13 @@
+flask
+pika
+pytesseract
+opencv-python-headless
+pdf2image
+pymongo
+python-dotenv
+google-generativeai
+pymupdf
+pdf2image
+Pillow
+requests
+numpy
